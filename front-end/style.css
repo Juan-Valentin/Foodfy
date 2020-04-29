@@ -1,0 +1,47 @@
+body {
+    background-color: #282a36;
+}
+
+header {
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+/*=== HEADER ===*/
+.links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 30px;
+    padding-bottom: 36px;
+}
+
+.img-foodfy {
+    padding-bottom: 30px;
+    position: 231px 36.1px;
+    size: 90.6px 26.9px;
+}
+
+/*=== AS MELHORES RECEITAS ===*/
+#grid-receive-best {
+    background-color: #FBDFDB;
+    width: 940px;
+    height: 366px;
+    border-radius: 30px;
+}
+
+#grid-receive-best h1 {
+    position: 290px 210px;
+    width: 305px;
+    height: 38px;
+    border-left: 60px;
+}
+
+#grid-receive-best p {
+    position: 290px 210px;
+    width: 305px;
+    height: 38px;
+    border-left: 60px;
+}
